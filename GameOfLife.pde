@@ -15,9 +15,9 @@ final static float CELL_WIDTH = SCREEN_WIDTH / GRID_WIDTH;
 final static float CELL_HEIGHT = SCREEN_HEIGHT / GRID_HEIGHT;
 
 // The interval in milliseconds between each update
-// final static float SPEED = 200; Original
-final static float BPM = 90;
-final static float SPEED = 60000 / BPM;
+ final static float SPEED = 800; //Original
+//final static float BPM = 90;
+//final static float SPEED = 60000 / BPM;
 
 // The grid!!!!
 Grid grid;
